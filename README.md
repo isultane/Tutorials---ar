@@ -1,4 +1,6 @@
 # Tools used in Software Engineering domain
-Simple tutorials (in Arabic) about tools used in software engineering domain
+Simple tutorials (in Arabic) about tools used in software engineering domain.<br />
+
 هنا مجموعة دروس (شروحات) لمجموعة من المفاهيم اللتي تهم مطوري البرامج وسنحاول ان تكون الشروحات على مستوى المبتدئين. قد تحتوي الشروحات تعتبر بشكلها المدأي وقد تحتوي على بعض الأخطاء اللغويه لأن المقصد ايصال المعلومه وليست الترجمه 
-هذه السلسه تحت التعديل والتحرير, أذا هناك سؤال او استفسار بأمكانكم التواصل معي على البريد الإلكتروني to_sultan@yahoo.com 
+هذه السلسه تحت التعديل والتحرير, أذا هناك سؤال او استفسار بأمكانكم التواصل معي على البريد الإلكتروني
+to_sultan@yahoo.com
